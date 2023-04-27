@@ -1,2 +1,2 @@
-# project-Javascript-kalkulator
-Mini project Javascript-Kalkulator
+# project-Javascript-Calculator
+Mini project Javascript-Calculator
